@@ -1,6 +1,15 @@
 .container-fluid{
-    background-color: lightcoral;
+    background-color: rgb(223, 19, 19);
     margin: auto;
     padding: auto;
+    border-color: black;
+    border-radius: 10%;
+
+}
+.carousel-inner{
+   display: grid;
+position: ms-page;
+
+   
 
 }
