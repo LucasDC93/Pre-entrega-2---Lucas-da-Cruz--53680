@@ -1,8 +1,8 @@
 .container-fluid {
-    background-color: rgb(108, 110, 206); 
+    background-color: rgb(108, 110, 206);
     border-color: black;
     border-radius: 5px;
-    
+
 
 }
 
@@ -11,12 +11,23 @@
     width: 1000px;
     /*height: 1200px;*/
     margin: auto;
-   padding: auto;
+    padding: auto;
 
 }
-.img-logo{
+
+.carousel-caption{
+    font-size: 20px;
+    
+
+}
+
+.img-logo {
     width: 200px;
     display: flex;
     margin: auto;
 
+}
+
+.div h5 p{
+    color: aliceblue;
 }
