@@ -1,7 +1,8 @@
 .container-fluid {
-    background-color: rgb(223, 19, 19); 
+    background-color: rgb(19, 22, 223); 
     border-color: black;
     border-radius: 5px;
+    
 
 }
 
@@ -12,5 +13,10 @@
     margin: auto;
    padding: auto;
 
+}
+.img-logo{
+    width: 200px;
+    display: flex;
+    margin: auto;
 
 }
