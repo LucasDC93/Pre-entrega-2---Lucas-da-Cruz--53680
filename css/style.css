@@ -26,4 +26,12 @@
     margin: auto;
 
 }
-
+.row {
+    border: brown;
+    display: grid;
+    grid-template-columns: auto;
+    border-color: black 2px 2px;
+    margin: auto;
+    padding: auto;
+    
+}
