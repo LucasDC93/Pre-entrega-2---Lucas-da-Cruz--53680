@@ -1,6 +1,5 @@
 .container-fluid {
     background-color: rgb(108, 110, 206);
-    border-color: black;
     border-radius: 5px;
 
 
@@ -28,6 +27,3 @@
 
 }
 
-.div h5 p{
-    color: aliceblue;
-}
