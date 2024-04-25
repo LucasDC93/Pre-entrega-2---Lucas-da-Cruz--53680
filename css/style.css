@@ -26,12 +26,11 @@
     margin: auto;
 
 }
-.row {
-    border: brown;
+.col {
+    grid-template-columns: "(4, 1fr)";
     display: grid;
-    grid-template-columns: auto;
-    border-color: black 2px 2px;
-    margin: auto;
-    padding: auto;
-    
+    margin: 120px;
+    padding: 10px;
+   
+
 }
