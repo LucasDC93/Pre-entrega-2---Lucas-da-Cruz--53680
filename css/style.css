@@ -45,3 +45,20 @@
     font-family:'Courier New', Courier, monospace;
 
 }
+
+.footer{
+    margin: auto;
+    padding: auto;
+    background-color: rgba(238, 130, 238, 0.433); 
+    box-shadow: 2px 2px 2px 2px;
+
+}
+.row{
+    width: auto;
+    height: auto;
+    display: flex;
+    margin: auto;
+    padding: auto;
+    align-content: center;
+
+}
